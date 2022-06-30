@@ -31,7 +31,7 @@ const App = () => {
         <StatusBar backgroundColor={colorGithub} barStyle= "light-content">
         </StatusBar>
         <View style={style.content}>
-          <Image accessibilityLabel='Grace no seu quarto'
+          <Image accessibilityLabel='Grace Meu Quarto'
            style={style.avatar} source={{uri: ImageProfileGithub}}/> 
            <Text 
            accessibilityLabel= "Nome: Grace Kelly" 
